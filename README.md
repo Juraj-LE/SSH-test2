@@ -18,6 +18,7 @@ Skuska dvoch commitov a jedneho pushu ci pribudnu na githube dva commity alebo n
 * git rm -r --cached some-directory
 * git commit -m 'Remove the now ignored directory "some-directory"'
 * git push origin master
+* 
 
 
 * git push -f github Juraj
