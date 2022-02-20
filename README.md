@@ -1,5 +1,5 @@
 # [SSH test](SSH-test)
-Skuska readme update.
+Skuska readme update sunday.
 
 ## Podnadpis
 
