@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 # [SSH test](SSH-test)
 * Skuska readme update "sunday hi".
 * Tell me that it works.
+=======
+# SSH test
+Skuska readme update "sunday hi".
+>>>>>>> main
 
 ## Podnadpis
 
@@ -14,6 +19,7 @@ Skuska dvoch commitov a jedneho pushu ci pribudnu na githube dva commity alebo n
 * git commit -am ".."
 * git push
 
+<<<<<<< HEAD
 
 * 
 * git rm -r --cached some-directory
@@ -22,4 +28,10 @@ Skuska dvoch commitov a jedneho pushu ci pribudnu na githube dva commity alebo n
 * 
 
 
+=======
+* git rm -r --cached some-directory
+* git commit -m 'Remove the now ignored directory "some-directory"'
+* git push origin master
+*
+>>>>>>> main
 * git push -f github Juraj
