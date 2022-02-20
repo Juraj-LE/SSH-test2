@@ -26,3 +26,7 @@ Skuska dvoch commitov a jedneho pushu ci pribudnu na githube dva commity alebo n
 * git push origin master
 *
 * git push -f github Juraj
+*
+* **reverse commit** :
+  * git log
+  * git reset 'commit id' / (when merge reset) --merge 'commit id'
