@@ -1,4 +1,4 @@
-#SSH test
+# SSH test
 Skuska readme update "sunday hi".
 
 ## Podnadpis
@@ -13,3 +13,8 @@ git push
 git commit -am ".."
 git push
 
+git rm -r --cached some-directory
+git commit -m 'Remove the now ignored directory "some-directory"'
+git push origin master
+
+git push -f github Juraj
